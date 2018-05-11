@@ -1,0 +1,3 @@
+rootProject.name = 'tesseract'
+
+include ':app'
